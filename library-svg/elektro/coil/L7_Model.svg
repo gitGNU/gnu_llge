@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" width="400.000" height="400.000" viewBox="0.0 0.0 400.000 400.000" version="1.1">
+  <title>Produce by Acme CAD Converter</title>
+  <desc>Produce by Acme CAD Converter</desc>
+<g id="0" display="visible">
+<g><path d="M200 100.37L180.56 102.28M180.56 102.28L161.87 107.95M161.87 107.95L144.65 117.16M144.65 117.16L129.55 129.55M129.55 129.55L117.16 144.65M117.16 144.65L107.95 161.87M107.95 161.87L102.28 180.56M102.28 180.56L100.37 200M100.37 200L102.28 219.44M102.28 219.44L107.95 238.13M107.95 238.13L117.16 255.35M117.16 255.35L129.55 270.45M129.55 270.45L144.65 282.84M144.65 282.84L161.87 292.05M161.87 292.05L180.56 297.72M180.56 297.72L200 299.63M200 299.63L219.44 297.72M219.44 297.72L238.13 292.05M238.13 292.05L255.35 282.84M255.35 282.84L270.45 270.45M270.45 270.45L282.84 255.35M282.84 255.35L292.05 238.13M292.05 238.13L297.72 219.44M297.72 219.44L299.63 200"
+fill="none" stroke="black" stroke-width="12"/>
+</g>
+<g><path d="M0.73 200L200 200"
+fill="none" stroke="black" stroke-width="12"/>
+</g>
+<g><path d="M200 200L200 100.37"
+fill="none" stroke="black" stroke-width="12"/>
+</g>
+<g><path d="M299.63 200L399.27 200"
+fill="none" stroke="black" stroke-width="12"/>
+</g>
+<g><path d="M0.73 200L0.73 200"
+fill="none" stroke="black" stroke-width=".5"/>
+</g>
+<g><path d="M399.27 200L399.27 200"
+fill="none" stroke="black" stroke-width=".5"/>
+</g>
+</g>
+</svg>
